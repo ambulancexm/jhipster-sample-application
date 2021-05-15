@@ -42,7 +42,9 @@
     "jwtSecretKey": "ODM0MzMyOWI0NzU2NGUzMTcyMWZjNjM1ODAwZWQzMzMzMDgxYzdiYzhhYmU5NDA1OGUwNjYxOTY5MWMyZTRhMTY1ODFiZGQxMzVjODQwNjM1YWExODA5YTJiZTBlZGQ0MjgwY2Y4MjZjMTEwZTk3ZDJlZjU0MWYyZGZjZGQ2MGQ=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1621098868000
   },
   "git-provider": "GitHub",
   "git-company": "ambulancexm",
